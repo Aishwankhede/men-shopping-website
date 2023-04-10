@@ -1,14 +1,14 @@
 $(document).ready(function() {
 
-    $('.owl-carousel').owlCarousel({
-        items: 1,
-        loop: true,
-        center: true,
-        autoplay: true,
-        margin: 10,
-        autoplayTimeout: 2000,
-        autoplayHoverPause: true,
-    })
+    // $('.owl-carousel').owlCarousel({
+    //     items: 1,
+    //     loop: true,
+    //     center: true,
+    //     autoplay: true,
+    //     margin: 10,
+    //     autoplayTimeout: 2000,
+    //     autoplayHoverPause: true,
+    // })
 
     $('#logo')[0].onclick = function() {
         // alert('gooing to home page')
